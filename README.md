@@ -8,13 +8,19 @@ A responsive academic and engineering portfolio featuring explainable AI, machin
 
 ## Features
 
-- 15 portfolio entries, including 11 public GitHub repositories reviewed in October 2026
+- 16 portfolio entries, including 12 public GitHub repositories reviewed in October 2026
 - Short project descriptions and accessible project detail dialogs
 - Category filters and technology-aware search
 - Light and dark themes with browser-local preference storage
 - Animated research illustration with reduced-motion support
 - Responsive layouts and keyboard focus indicators
 - Direct GitHub, email, and Upwork links
+
+## Featured PhD prototype
+
+[Bangladesh Early Warning — live demo](https://aitullalimon.github.io/bangladesh-early-warning-prototype/?v=voyager) · [Source and research notes](https://github.com/aitullalimon/bangladesh-early-warning-prototype)
+
+Demonstrates flood and lightning warning communication, all 8 divisions and 64 districts, preparedness checklists, citizen feedback, a support-team dashboard, and Condition A versus Condition B evaluation. Warnings are synthetic, guidance is scripted, and requests remain in the same browser; the demo does not run a live LLM or dispatch assistance.
 
 ## Project structure
 
@@ -57,3 +63,4 @@ The gallery was checked for rendering, category filtering, search, empty results
 GitHub: https://github.com/aitullalimon
 
 This repository contains portfolio code and descriptions. Linked projects retain their own licensing terms.
+
